@@ -3,7 +3,7 @@ import styles from './MainPage.module.scss'
 
 const MainPage: React.FC = () => {
   return (
-    <div className={styles.example}>MainPage</div>
+    <div className={styles.example}>MainPage_ALik</div>
   )
 }
 
